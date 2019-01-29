@@ -1,0 +1,37 @@
+.center {
+  text-align: center;
+}
+}
+body, html {
+  height: 100%;
+  font-stretch: ultra-expanded;
+}
+.bg {
+  /* The image used */
+  background-image: url("/static/bg-travel.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+	color: #FFFFFF;
+	font-family: ;
+	font-variant: small-caps;
+}
+.bold {
+	font-weight: bold;
+}
+.blue {
+	color: #33CCF3;
+}
+.underline {
+	text-decoration: underline
+}
+.transparent {
+	opacity: .4
+}
